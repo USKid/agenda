@@ -8138,7 +8138,7 @@ a[title=站长统计] {
 .site-top .logo {
   width: 140px;
   height: 32px;
-  background: url(https://gw.alipayobjects.com/os/s/prod/seeconf/9b458a789d9a000312899b42a7542b9c.svg) no-repeat 0;
+  background: url(./logo.png) no-repeat 0;
   position: absolute;
   left: 2.5%;
   top: 0;
@@ -8179,6 +8179,8 @@ a[title=站长统计] {
 }
 
 .page1 .content-wrapper .image-wrapper {
+  overflow: hidden;
+  height: 400px;
   border-radius: 8px;
   overflow: hidden;
   border-radius: 4px;
