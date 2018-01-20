@@ -8180,7 +8180,7 @@ a[title=站长统计] {
 
 .page1 .content-wrapper .image-wrapper {
   overflow: hidden;
-  height: 400px;
+  /* height: 400px; */
   border-radius: 8px;
   overflow: hidden;
   border-radius: 4px;
